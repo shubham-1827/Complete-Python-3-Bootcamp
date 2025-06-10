@@ -1,0 +1,4 @@
+Help on built-in function extend:
+
+eexxtteenndd(iterable, /) method of builtins.list instance
+    Extend list by appending elements from the iterable.
